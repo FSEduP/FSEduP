@@ -74,7 +74,7 @@ Soy un desarrollador web apasionado con una formación no convencional en progra
 ## Contacto <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 [![@EduPellicer](https://img.icons8.com/fluency/48/000000/linkedin.png "@EduPellicer")](https://www.linkedin.com/in/edu-pellicer-79a94b2a2/) 
 [![@FSEduP](https://img.icons8.com/fluency/48/000000/github.png "@FSEduP")](https://github.com/FSEduP) 
-[![@edu.pellicer.dejuanl@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@edu.pellicer.dejuanl@gmail.com")](edu.pellicer.dejuanl@gmail.com)
+[![@edu.pellicer.dejuan@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@edu.pellicer.dejuan@gmail.com")](mailto:edu.pellicer.dejuan@gmail.com)
 
   </br>
 
